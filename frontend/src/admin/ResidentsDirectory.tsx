@@ -1,0 +1,1 @@
+export default function ResidentsDirectory(){ return <div>Residents Directory</div>; }
